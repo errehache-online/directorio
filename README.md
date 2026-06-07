@@ -1,2 +1,2 @@
-# directorio
-Direactorio de Radios Hispanas
+# Directorio
+Directorio de Radios Hispanas
